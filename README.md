@@ -1,5 +1,5 @@
 # test_for_PIX_Robotics
 
- React + TypeScript;
+ Redux + TypeScript;
  
  highcharts.js;
