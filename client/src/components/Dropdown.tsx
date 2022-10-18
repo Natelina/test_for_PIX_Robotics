@@ -58,7 +58,7 @@ const Dropdown: React.FC<itemsProps> = ({ items }) => {
 
     <div onClick={toggelVisibllePopup} className="sort__label">
     <button className='clickButton'><b>CLICK HERE TO SELECT</b></button>
-    {/* <span >{activLable}</span> */}
+
     </div>
     {visiblePopup && (
     <div className='sort__popup'>

@@ -1,6 +1,6 @@
-import * as UserActionCreators from './smartphonesAction'
+import * as SmartphoneActionCreators from './smartphonesAction'
 
 
 export default {
-    ...UserActionCreators
+    ...SmartphoneActionCreators
 }
